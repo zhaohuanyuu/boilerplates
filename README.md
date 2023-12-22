@@ -1,2 +1,11 @@
-# wid-templates
-project templats for wid cli
+# boilerplates
+
+custom project bilerplates for wid cli
+
+# structure
+
+```
+boilerplates
+├─monorepo monorepo projects(nx、turbo)
+├─spa single application project
+```
