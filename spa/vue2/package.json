@@ -1,0 +1,15 @@
+{
+  "name": "<%= projectName %>",
+  "description": "Vue2 JavaScript Starter Project For Vite.",
+  "version": "1.0.0",
+  "license": "MIT",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build --emptyOutDir",
+    "preview": "vite preview",
+    "prettier": "prettier --write ./src/**/*"
+  },
+  "browserslist": [],
+  "devDependencies": {},
+  "generators": "generators.json"
+}
